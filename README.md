@@ -1,4 +1,4 @@
-## Hi there 👋
+## The whole world is a savanna; forests and grasslands are just special cases
 
 <!--
 **savanna-lab/savanna-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
